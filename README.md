@@ -8,9 +8,9 @@
 
 ### What I do
 
-18+ years leading documentation strategy and release communications across **fintech, enterprise software, and semiconductor** organizations — currently at **Visa Inc.**, previously **SimCorp**, **SK Hynix**, and others.
+18+ years leading documentation strategy and release communications across **fintech, enterprise software, and semiconductor** organizations; currently at **Visa Inc.**, previously **SimCorp**, **SK Hynix**, and others.
 
-I build documentation governance models and cross-functional review processes that hold up under regulatory and release-cycle pressure — and I'm currently focused on modernizing documentation operations through **AI-assisted workflows** (Microsoft Copilot, human-in-the-loop validation).
+I build documentation governance models and cross-functional review processes that hold up under regulatory and release-cycle pressure and I'm currently focused on modernizing documentation operations through **AI-assisted workflows** (Microsoft Copilot, human-in-the-loop validation).
 
 ### Core strengths
 
