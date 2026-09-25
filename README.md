@@ -1,4 +1,4 @@
-# Hi, I'm Katsiaryna Salavei 👋
+# Katsiaryna Salavei 👋
 
 **Senior Technical Writer** | Documentation Strategy & Governance | AI-Assisted Documentation Workflows
 
