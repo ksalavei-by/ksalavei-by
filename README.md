@@ -29,4 +29,4 @@ I build documentation governance models and cross-functional review processes th
 - Polish (B1)
 
 ### Portfolio
-- 📄 [Client Implementation Overview: Merchant Classification Code Updates](https://github.com/ksalavei-by/portfolio/blob/main/merchant-classification-code-updates.md) — sample client-facing change notification with role-based impact analysis and implementation checklist
+- 📄 [Client Implementation Article: Merchant Classification Code Updates](https://github.com/ksalavei-by/portfolio/blob/main/merchant-classification-code-updates.md) — sample client-facing change notification with role-based impact analysis and implementation checklist
