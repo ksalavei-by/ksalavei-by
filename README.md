@@ -29,6 +29,8 @@ I build documentation governance models and cross-functional review processes th
 - Polish (B1)
 
 ### Portfolio
-- 📄 [Client Implementation Article: Merchant Classification Code Updates](https://github.com/ksalavei-by/portfolio/blob/main/merchant-classification-code-updates.md) — sample client-facing change notification with role-based impact analysis and implementation checklist
-- 📄 [Implementation Guide: Portfolio Rebalancing Drift Monitoring](https://github.com/ksalavei-by/portfolio/blob/main/portfolio-rebalancing-drift-monitoring-implementation-guide.md) — sample portfolio-management guide covering real-time allocation drift alerts and rebalancing workflow
-- 📄 [What's New: Batch Update Management Interface](https://github.com/ksalavei-by/portfolio/blob/main/batch-update-management-interface-user-guide-article.md) — user guide feature article for a bulk batch-job management interface
+|Document|Description|
+|---|---|
+|📄 [Client Implementation Article: Merchant Classification Code Updates](https://github.com/ksalavei-by/portfolio/blob/main/merchant-classification-code-updates.md)|Sample client-facing change notification with role-based impact analysis and implementation checklist|
+|📄 [Implementation Guide: Portfolio Rebalancing Drift Monitoring](https://github.com/ksalavei-by/portfolio/blob/main/portfolio-rebalancing-drift-monitoring-implementation-guide.md)|Sample portfolio-management guide covering real-time allocation drift alerts and rebalancing workflow|
+|📄 [What's New: Batch Update Management Interface](https://github.com/ksalavei-by/portfolio/blob/main/batch-update-management-interface-user-guide-article.md)|User guide feature article for a bulk batch-job management interface|
