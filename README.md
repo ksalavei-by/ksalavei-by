@@ -30,3 +30,4 @@ I build documentation governance models and cross-functional review processes th
 
 ### Portfolio
 - 📄 [Client Implementation Article: Merchant Classification Code Updates](https://github.com/ksalavei-by/portfolio/blob/main/merchant-classification-code-updates.md) — sample client-facing change notification with role-based impact analysis and implementation checklist
+- 📄 [Implementation Guide: Portfolio Rebalancing Drift Monitoring](https://github.com/ksalavei-by/portfolio/blob/main/portfolio-rebalancing-drift-monitoring-implementation-guide.md) — sample portfolio-management guide covering real-time allocation drift alerts and rebalancing workflow
