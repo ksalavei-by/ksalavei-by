@@ -27,6 +27,3 @@ I build documentation governance models and cross-functional review processes th
 - German (C2)
 - Russian (C2)
 - Polish (B1)
-
----
-💬 Open to conversations about documentation strategy, AI-assisted writing workflows, and technical communication in regulated industries.
