@@ -8,11 +8,11 @@
 
 ### What I do
 
-18+ years writing and structuring technical documentation across fintech, enterprise software, and semiconductor platforms, including **Visa Inc.**, **SimCorp**, and **SK Hynix**.
+18+ years writing technical documentation across fintech, enterprise software, and semiconductor platforms, including **Visa Inc.**, **SimCorp**, and **SK Hynix**.
 
-I work across the full documentation lifecycle, from implementation guides and API references to release notes, internal engineering specifications, and end-user help. I often document the same feature for multiple audiences, translating complex technical requirements into clear, audience-specific content for developers, end users, and engineering teams.
+I write across the full documentation lifecycle — implementation guides, API references, release notes, internal engineering specs, and end-user help — often documenting the same feature for multiple audiences, from developers to end users to engineering teams.
 
-Beyond writing, I set documentation governance direction on my current team by defining review workflows, editorial standards, and publication processes that the writing team has adopted, and mentoring editors into that process. I also design AI-assisted documentation workflows using Microsoft Copilot, applying human-in-the-loop validation so drafting moves faster without giving up accuracy or editorial control.
+I also set documentation governance direction (review workflows, editorial standards, publication processes) and mentor editors, and I design AI-assisted documentation workflows using Microsoft Copilot with human-in-the-loop review.
 
 ### Core strengths
 
