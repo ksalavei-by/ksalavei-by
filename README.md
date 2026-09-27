@@ -8,9 +8,11 @@
 
 ### What I do
 
-18+ years leading documentation strategy and release communications across **fintech, enterprise software, and semiconductor** organizations; currently at **Visa Inc.**, previously **SimCorp**, **SK Hynix**, and others.
+18+ years writing and structuring technical documentation across fintech, enterprise software, and semiconductor platforms — including **Visa Inc**., ****SimCorp, and **SK Hynix**.
 
-I build documentation governance models and cross-functional review processes that hold up under regulatory and release-cycle pressure and I'm currently focused on modernizing documentation operations through **AI-assisted workflows** (Microsoft Copilot, human-in-the-loop validation).
+I work across the full documentation lifecycle, from implementation guides and API references to release notes, internal engineering specifications, and end-user help. I often document the same feature for multiple audiences, translating complex technical requirements into clear, audience-specific content for developers, end users, and engineering teams.
+
+Beyond writing, I design documentation review and governance processes that keep technical content accurate and maintainable under regulatory and release-cycle pressure. I'm currently exploring AI-assisted documentation workflows, using Microsoft Copilot with human-in-the-loop review to improve drafting efficiency without compromising technical accuracy or editorial control.
 
 ### Core strengths
 
