@@ -39,6 +39,4 @@ Beyond writing, I set documentation governance direction on my current team by d
 | [Internal Design Specification: Dynamic Wear-Leveling Controller](https://github.com/ksalavei-by/portfolio/blob/main/dynamic-wear-leveling-controller-architecture-spec.md) | Internal engineering documentation for a NAND flash wear-leveling hardware block | EN |
 | [Batch Update Management Interface](https://github.com/ksalavei-by/portfolio/blob/main/batch-update-management-interface-user-guide-article.md) | User guide feature article for a bulk batch-job management interface | EN |
 | [Claims API Reference: Submit First Notice of Loss](https://github.com/ksalavei-by/portfolio/blob/main/claims-api-fnol-reference.md) | API reference documentation for an insurance claims intake endpoint | EN |
-| [Digital Signage: Playlist Management](https://github.com/ksalavei-by/portfolio/blob/main/digital-signage-playlist-management-user-guide-DE.md) | User guide article covering playlist creation, scheduling, and screen assignment for a digital signage solution | DE |
-
-
+| [Digital Signage Screen Playlist Management](https://github.com/ksalavei-by/portfolio/blob/main/digital-signage-playlist-management-user-guide-DE.md) | User guide article covering playlist creation, scheduling, and screen assignment for a digital signage solution | DE |
