@@ -33,7 +33,7 @@ Beyond writing, I set documentation governance direction on my current team by d
 ### Portfolio
 ## Writing samples
 
-| Document | Description | Language |
+| Writing Sample | Description | Language |
 |---|---|---|
 | [Batch Update Management Interface](https://github.com/ksalavei-by/portfolio/blob/main/batch-update-management-interface-user-guide-article.md) | User guide feature article for a bulk batch-job management interface | EN |
 | [Claims API Reference: Submit First Notice of Loss](https://github.com/ksalavei-by/portfolio/blob/main/claims-api-fnol-reference.md) | API reference documentation for an insurance claims intake endpoint | EN |
