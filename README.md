@@ -22,14 +22,6 @@ I also set documentation governance direction (review workflows, editorial stand
 - 🤖 AI-assisted documentation (Copilot, prompt engineering, AI-ready doc patterns)
 - 🧰 Confluence · Jira · Git · MadCap Flare · Postman
 
-### Languages
-
-- Belarusian (Native)
-- English (C2)
-- German (C1)
-- Russian (C2)
-- Polish (B1)
-
 ### Portfolio
 
 | Writing Sample | Description | Language |
@@ -39,3 +31,11 @@ I also set documentation governance direction (review workflows, editorial stand
 | [Batch Update Management Interface](https://github.com/ksalavei-by/portfolio/blob/main/batch-update-management-interface-user-guide-article.md) | User guide feature article for a bulk batch-job management interface | EN |
 | [Claims API Reference: Submit First Notice of Loss](https://github.com/ksalavei-by/portfolio/blob/main/claims-api-fnol-reference.md) | API reference documentation for an insurance claims intake endpoint | EN |
 | [Digital Signage Screen Playlist Management](https://github.com/ksalavei-by/portfolio/blob/main/digital-signage-playlist-management-user-guide-DE.md) | User guide article covering playlist creation, scheduling, and screen assignment for a digital signage solution | DE |
+
+### Languages
+
+- Belarusian (Native)
+- English (C2)
+- German (C1)
+- Russian (C2)
+- Polish (B1)
