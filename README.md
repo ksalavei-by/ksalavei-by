@@ -8,7 +8,7 @@
 
 ### What I do
 
-18+ years writing and structuring technical documentation across fintech, enterprise software, and semiconductor platforms — including **Visa Inc**., ****SimCorp, and **SK Hynix**.
+18+ years writing and structuring technical documentation across fintech, enterprise software, and semiconductor platforms — including **Visa Inc**., **SimCorp**, and **SK Hynix**.
 
 I work across the full documentation lifecycle, from implementation guides and API references to release notes, internal engineering specifications, and end-user help. I often document the same feature for multiple audiences, translating complex technical requirements into clear, audience-specific content for developers, end users, and engineering teams.
 
