@@ -31,7 +31,12 @@ Beyond writing, I set documentation governance direction on my current team by d
 - Polish (B1)
 
 ### Portfolio
-|Document|Description|Language|
+## Writing samples
+
+| Document | Description | Language |
 |---|---|---|
-|📄 [Client Implementation Article: Merchant Classification Code Updates](https://github.com/ksalavei-by/portfolio/blob/main/merchant-classification-code-updates.md)|Sample client-facing change notification with role-based impact analysis and implementation checklist|EN
-|📄 [What's New: Batch Update Management Interface](https://github.com/ksalavei-by/portfolio/blob/main/batch-update-management-interface-user-guide-article.md)|User guide feature article for a bulk batch-job management interface|EN
+| [Batch Update Management Interface](https://github.com/ksalavei-by/portfolio/blob/main/batch-update-management-interface-user-guide-article.md) | User guide feature article for a bulk batch-job management interface | EN |
+| [Claims API Reference: Submit First Notice of Loss](https://github.com/ksalavei-by/portfolio/blob/main/claims-api-fnol-reference.md) | API reference documentation for an insurance claims intake endpoint | EN |
+| [Digital Signage: Playlist Management](https://github.com/ksalavei-by/portfolio/blob/main/digital-signage-playlist-management-user-guide-DE.md) | User guide article covering playlist creation, scheduling, and screen assignment for a digital signage solution | DE |
+| [Internal Design Specification: Dynamic Wear-Leveling Controller](https://github.com/ksalavei-by/portfolio/blob/main/dynamic-wear-leveling-controller-architecture-spec.md) | Internal engineering documentation for a NAND flash wear-leveling hardware block | EN |
+| [Merchant Classification Code Updates](https://github.com/ksalavei-by/portfolio/blob/main/merchant-classification-code-updates.md) | Client implementation notice covering merchant classification code updates | EN |
