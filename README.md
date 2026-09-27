@@ -6,7 +6,7 @@
 
 ---
 
-### Professional Summary
+### Professional summary
 
 18+ years of experience writing technical documentation across fintech, enterprise software, and semiconductor platforms, including **Visa Inc.**, **SimCorp**, and **SK Hynix**.
 
