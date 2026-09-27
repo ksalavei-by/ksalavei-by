@@ -19,7 +19,6 @@ I also shape documentation governance, including review workflows, editorial sta
 - 📋 Documentation strategy, governance & operating models
 - 🔧 Technical letters, API/developer docs, release notes
 - 🤝 Cross-functional technical review facilitation
-- 🤖 AI-assisted documentation (Copilot, prompt engineering, AI-ready doc patterns)
 - 🧰 Confluence · Jira · Git · MadCap Flare · Postman
 
 ### My Portfolio
