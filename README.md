@@ -25,11 +25,11 @@ I also shape documentation governance, including review workflows, editorial sta
 
 | Writing Sample | Description | Language |
 |---|---|---|
+| [Internal Design Specification: Dynamic Wear-Leveling Controller](https://github.com/ksalavei-by/portfolio/blob/main/dynamic-wear-leveling-controller-architecture-spec.md) | Engineering specification for a NAND flash wear-leveling controller, written for firmware and verification engineers. It covers the register interface, interaction with garbage collection, and verification requirements. | EN |
+| [Batch Update Management Interface](https://github.com/ksalavei-by/portfolio/blob/main/batch-update-management-interface-user-guide-article.md) | Task-based user guide for an interface that manages bulk batch jobs, written for business users. | EN |
+| [Digital Signage Screen Playlist Management](https://github.com/ksalavei-by/portfolio/blob/main/digital-signage-playlist-management-user-guide-DE.md) | Customer-facing user guide for creating and scheduling playlists and assigning them to screens, written for everyday operators of the system. | DE |
 | [Merchant Classification Code Updates](https://github.com/ksalavei-by/portfolio/blob/main/merchant-classification-code-updates.md) | Client notice on merchant classification code updates | EN |
-| [Internal Design Specification: Dynamic Wear-Leveling Controller](https://github.com/ksalavei-by/portfolio/blob/main/dynamic-wear-leveling-controller-architecture-spec.md) | Engineering specification for a NAND flash wear-leveling controller | EN |
-| [Batch Update Management Interface](https://github.com/ksalavei-by/portfolio/blob/main/batch-update-management-interface-user-guide-article.md) | User guide for a bulk batch job management interface | EN |
-| [Claims API Reference: Submit First Notice of Loss](https://github.com/ksalavei-by/portfolio/blob/main/claims-api-fnol-reference.md) | API reference for an insurance claims intake endpoint | EN |
-| [Digital Signage Screen Playlist Management](https://github.com/ksalavei-by/portfolio/blob/main/digital-signage-playlist-management-user-guide-DE.md) | User guide for playlist creation, scheduling, and screen assignment | DE |
+| [Claims API Reference: Submit First Notice of Loss](https://github.com/ksalavei-by/portfolio/blob/main/claims-api-fnol-reference.md) | Developer-facing reference for the endpoint that submits a first notice of loss in an insurance claims system. | EN |
 
 ### Languages
 
