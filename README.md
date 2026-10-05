@@ -17,7 +17,7 @@ I also shape documentation governance, including review workflows, editorial sta
 ### Core strengths
 
 - 📋 Documentation strategy, governance & operating models
-- 🔧 Technical letters, API/developer docs, release notes
+- 🔧 Technical letters, developer docs, release notes
 - 🤝 Cross-functional technical review facilitation
 - 🧰 Confluence · Jira · Git · MadCap Flare · Postman
 
@@ -29,7 +29,6 @@ I also shape documentation governance, including review workflows, editorial sta
 | [Batch Update Management Interface](https://github.com/ksalavei-by/portfolio/blob/main/batch-update-management-interface-user-guide-article.md) | Task-based user guide for an interface that manages bulk batch jobs, written for business users. | EN |
 | [Digital Signage Screen Playlist Management](https://github.com/ksalavei-by/portfolio/blob/main/digital-signage-playlist-management-user-guide-DE.md) | Customer-facing user guide for creating and scheduling playlists and assigning them to screens, written for everyday operators of the system. | DE |
 | [Merchant Classification Code Updates](https://github.com/ksalavei-by/portfolio/blob/main/merchant-classification-code-updates.md) | Client implementation notice on a code-set update, with separate impact for each audience, testing requirements and a readiness checklist. | EN |
-| [Claims API Reference: Submit First Notice of Loss](https://github.com/ksalavei-by/portfolio/blob/main/claims-api-fnol-reference.md) | Developer-facing reference for the endpoint that submits a first notice of loss in an insurance claims system. | EN |
 
 ### Languages
 
