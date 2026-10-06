@@ -33,7 +33,7 @@ I also shape documentation governance, including review workflows, editorial sta
 ### Languages
 
 - Belarusian (Native)
-- English (C2)
+- English (C1)
 - German (C1)
 - Russian (C2)
 - Polish (B1)
