@@ -28,7 +28,6 @@ I also shape documentation governance, including review workflows, editorial sta
 | [Internal Design Specification: Dynamic Wear-Leveling Controller](https://ksalavei-by.github.io/portfolio/dynamic-wear-leveling-controller-architecture-spec/) | Engineering specification for a NAND flash wear-leveling controller | EN |
 | [Digital Signage Screen Playlist Management](https://ksalavei-by.github.io/portfolio/digital-signage-playlist-management-user-guide-DE/) | User guide for playlist creation, scheduling, and screen assignment | DE |
 | [Batch Update Management Interface](https://ksalavei-by.github.io/portfolio/batch-update-management-interface-user-guide-article/) | User guide for a bulk batch job management interface | EN |
-| [Claims API Reference: Submit First Notice of Loss](https://github.com/ksalavei-by/portfolio/blob/main/claims-api-fnol-reference.md) | API reference for an insurance claims intake endpoint | EN |
 | [Merchant Classification Code Updates](https://ksalavei-by.github.io/portfolio/merchant-classification-code-updates/) | Client notice on merchant classification code updates | EN |
 
 ### Languages
