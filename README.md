@@ -29,6 +29,7 @@ I also shape documentation governance, including review workflows, editorial sta
 | [Digital Signage Screen Playlist Management](https://ksalavei-by.github.io/portfolio/digital-signage-playlist-management-user-guide-DE/) | User guide for playlist creation, scheduling, and screen assignment | DE |
 | [Batch Update Management Interface](https://ksalavei-by.github.io/portfolio/batch-update-management-interface-user-guide-article/) | User guide for a bulk batch job management interface | EN |
 | [Merchant Classification Code Updates](https://ksalavei-by.github.io/portfolio/merchant-classification-code-updates/) | Client notice on merchant classification code updates | EN |
+Source and build pipeline: [github.com/ksalavei-by/portfolio](https://github.com/ksalavei-by/portfolio)
 
 ### Languages
 
